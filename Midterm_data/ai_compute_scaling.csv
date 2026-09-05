@@ -1,0 +1,16 @@
+﻿Year,Model,Parameters_Billions,Training_Computeflop,Context_Length,Training_Data_Tokens_Billions,Training_Time_Days,Organization
+2012,AlexNet,0.06,0.0002,0,0.001,6,University of Toronto
+2014,VGG-19,0.14,0.0007,0,0.002,14,Oxford
+2015,ResNet-152,0.06,0.0004,0,0.003,10,Microsoft
+2018,BERT-Large,0.34,0.02,512,3.3,4,Google
+2019,GPT-2,1.5,0.05,1024,8,14,OpenAI
+2019,T5-11B,11,0.5,1024,34,12,Google
+2020,GPT-3,175,3.1,2048,300,34,OpenAI
+2021,J1-Jumbo,178,3.3,2048,350,28,AI21 Labs
+2021,Gopher,280,4.0,2048,400,25,DeepMind
+2022,PaLM,540,9.0,2048,780,45,Google
+2023,LLaMA-65B,65,1.0,2048,150,21,Meta
+2023,Claude-1,52,1.2,2048,200,22,Anthropic
+2023,GPT-4,1000,21.0,32768,1000,60,OpenAI
+2024,Llama-3-405B,405,12.0,32768,650,40,Meta
+2024,Claude-3,1300,32.0,32768,1200,70,Anthropic
