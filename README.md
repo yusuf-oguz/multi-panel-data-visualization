@@ -36,8 +36,8 @@ A three-panel visualization built from `player_attributes.csv`: a donut chart, a
 
 | File | What it is |
 |---|---|
-| `midterm_solutions.ipynb` | All four solutions |
-| `Midterm_data/` | The three datasets (AI investment, AI compute scaling, player attributes) |
+| `visualizations.ipynb` | All four solutions |
+| `data/` | The three datasets (AI investment, AI compute scaling, player attributes) |
 | `ai_scaling_analysis.png` | The rendered output for Problem 3 |
 
 ## Tools
