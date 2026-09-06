@@ -12,6 +12,8 @@ Dört farklı problem, farklı veri setleri üzerinde çeşitli grafik teknikler
 
 </details>
 
+---
+
 Four unrelated problems, each pairing a dataset with a different charting technique.
 
 ## Problem 1: favorite video game characters
