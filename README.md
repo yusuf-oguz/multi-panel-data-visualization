@@ -10,11 +10,15 @@ Dört farklı problem, farklı veri setleri üzerinde çeşitli grafik teknikler
 **Problem 3:** yapay zeka modellerinin 2012-2024 arası hesaplama gücü ölçeklenmesini analiz eden, 4 panelli bir figür.
 **Problem 4:** oyuncu özniteliklerini donut chart, yığın dağılım grafiği (swarm scatter) ve paralel koordinatlar grafiğiyle inceleyen 3 panelli bir görselleştirme.
 
+**Kapsam:** dört veri setini görselleştiren odaklı bir egzersiz, modelleme veya pipeline çalışması içermiyor.
+
 </details>
 
 ---
 
 Four unrelated problems, each pairing a dataset with a different charting technique.
+
+**Scope:** a focused visualization exercise across four datasets, no modeling or pipeline work involved.
 
 ## Problem 1: favorite video game characters
 
